@@ -1,0 +1,5 @@
+#To install use "pip install -r requirements.txt" (Need python 3.10+)
+
+pyserial
+PyQt6
+pygame
